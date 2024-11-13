@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB9nwJqk54k1YFMKtcTQDm20XLo-VMH6U4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>626304659424</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.voitovich.backgroundNotificationsDemoApp</string>
+	<key>PROJECT_ID</key>
+	<string>background-notifications-demo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>background-notifications-demo.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:626304659424:ios:4000557f9cd06c415f0585</string>
+</dict>
+</plist>

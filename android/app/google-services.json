@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626304659424",
+    "project_id": "background-notifications-demo",
+    "storage_bucket": "background-notifications-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626304659424:android:45f9fd047b231f3f5f0585",
+        "android_client_info": {
+          "package_name": "com.voitovich.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASkan_9RL_4DN7WSwY0m3gDXA81vTPhkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.voitovich.background_notifications_demo_app
+package com.voitovich.demo
 
 import io.flutter.embedding.android.FlutterActivity
 
